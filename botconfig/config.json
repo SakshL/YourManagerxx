@@ -1,0 +1,48 @@
+{
+    "token": "OTcwOTA2OTA5OTcwNDMyMDkw.YnCxhQ.bBeYC25GlB0SOTs_2L1xNwj56wQ",
+    "prefix": "?",
+    "ownerIDS": [
+        "966411522106605608"
+    ],
+    "fnbr": "c2838e00ed0e79724166cbaa4e1b540b180aa8976f18f381ada54d50b24b64da6e01e7703d6bdabd704366e66659c31fa2025eeaab46c2ccecd64010c8f2baa2",
+    "fortnitetracker": "GET from: https://fortnitetracker.com",
+    "memer_api": "JoizT7Oss2t",
+    "status": {
+        "text": "Active Community, Coding Help, Best Staff Join: discord.gg/notsaksh",
+        "text2": "Active Community, Coding Help, Best Staff Join: discord.gg/notsaksh",
+        "type": "PLAYING",
+        "url": "https://twitch.tv/milratodiscordbot"
+    },
+    "clientsettings": {
+        "nodes": [
+            {
+                "host": "n1.lavalink.milrato.com",
+                "port": 10250,
+                "password": "discord.gg/milrato"
+            }
+        ]
+    },
+    "spotify": {
+        "clientSecret": "69ec4ee5a2c74f4ca6e7549fd909b5ca",
+        "clientID": "448e1d93c4e942d8875f3ee41d0e0655"
+    },
+    "settings": {
+        "COMMENT": "time_delay 0 === insta leave",
+        "leaveOnEmpty_Channel": {
+            "enabled": true,
+            "time_delay": 30000
+        },
+        "LeaveOnEmpty_Queue": {
+            "enabled": true,
+            "time_delay": 30000
+        },
+        "selfDeaf": true
+    },
+    "lyricssettings": {
+        "lyrics_finder": true,
+        "ksoft_api": {
+            "use_this_instead": true,
+            "api_key": "DISABLED"
+        }
+    }
+}
